@@ -1,0 +1,15 @@
+#fejlec{
+    background-color: black;
+    height: 161px;
+    border-radius: 10px;
+    margin: auto;
+}
+#fejlectext{
+    color: white;
+    text-align: center;
+}
+#logo{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
