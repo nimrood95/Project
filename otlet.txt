@@ -1,10 +1,10 @@
     Egy frappáns kis weboldalat kéne összehozni, akár barátokkal vagy egyedül. Leszarom. De ennek készen kell lennie. 
 
  TEENDŐK (lehetőleg a mai héten)
- -->   A fejléc fekete, ikonnal és benne a tartalommal. ✔
- -->   4K Lépgíűjtés a boxokhoz, forrás, kutatás. X
- -->   Maga a tartalom, autók, box-ok, színek, shadow, elrendezés, mennyiség. X
- -->   A lábléc (elérhetőségek, készítők.. stb.) X
+ -->   A fejléc fekete, ikonnal és benne a tartalommal. (✔)
+ -->   4K Lépgíűjtés a boxokhoz, forrás, kutatás. (X)
+ -->   Maga a tartalom, autók, box-ok, funkcionáló button, színek, shadow, elrendezés, mennyiség. (X)
+ -->   A lábléc (elérhetőségek, készítők.. stb.) (X)
 
  Kövi hét:
   (még tervezem)
