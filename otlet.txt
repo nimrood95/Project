@@ -1,5 +1,10 @@
-                    <h1 id="fejlectext">𝙷𝚈𝙿𝙴𝚁 𝙰𝚄𝚃𝙾 𝙸𝚂𝙼𝙴𝚁𝚃𝙴𝚃𝙾</h1>
+    Egy frappáns kis weboldalat kéne összehozni, akár barátokkal vagy egyedül. Leszarom. De ennek készen kell lennie. 
 
-                                <img src="OIP.webp" alt="koenigsegg ghost logo" id="logo">
-                                ᴋᴇᴢᴅʟᴀᴘ
-                                ᴀᴜᴛᴏᴋ
+ TEENDŐK (lehetőleg a mai héten)
+ -->   A fejléc fekete, ikonnal és benne a tartalommal. ✔
+ -->   4K Lépgíűjtés a boxokhoz, forrás, kutatás. X
+ -->   Maga a tartalom, autók, box-ok, színek, shadow, elrendezés, mennyiség. X
+ -->   A lábléc (elérhetőségek, készítők.. stb.) X
+
+ Kövi hét:
+  (még tervezem)
