@@ -33,12 +33,12 @@ a{
     margin-right: 250px;
 }
 
-.box{
+.box-left{
     float: left;
     box-shadow: 7px 7px 20px black;
     width: 400px;
     margin-top: 40px;
-    height: 200px;
+    height: 250px;
 }
 
 #auto{
@@ -47,4 +47,27 @@ a{
 
 #logo{
     margin-bottom: 20px;
+}
+
+#elsoauto{
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+#details{
+    float: right;
+    margin-top: 30px;
+    margin-right: 60px;
+}
+
+#erdekesseg{
+    margin-bottom: 50px;
+}
+
+.linkgomb{
+    line-height: 30px;
+    margin-top: 25px;
+    margin-left: 100px;
+    box-shadow: 2px 2px 20px;
 }
