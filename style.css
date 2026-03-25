@@ -32,3 +32,13 @@ a{
     margin-left: 250px;
     margin-right: 250px;
 }
+
+.box{
+    float: left;
+    box-shadow: 7px 7px 5px black;
+    width: 400px;
+}
+
+#Bugatti{
+    width: 200px;
+}
