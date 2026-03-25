@@ -75,7 +75,8 @@ a{
 }
 
 .box-right{
-    float: right;
+    float: left;
+    margin-left: 100px;
     box-shadow: 7px 7px 20px black;
     width: 400px;
     margin-top: 40px;
