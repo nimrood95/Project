@@ -35,10 +35,16 @@ a{
 
 .box{
     float: left;
-    box-shadow: 7px 7px 5px black;
+    box-shadow: 7px 7px 20px black;
     width: 400px;
+    margin-top: 40px;
+    height: 200px;
 }
 
-#Bugatti{
+#auto{
     width: 200px;
+}
+
+#logo{
+    margin-bottom: 20px;
 }
