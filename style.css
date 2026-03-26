@@ -43,7 +43,7 @@ a{
     height: 250px;
 }
 
-#auto{
+.auto{
     width: 200px;
 }
 
@@ -51,19 +51,19 @@ a{
     margin-bottom: 20px;
 }
 
-#elsoauto{
+.elsoauto{
     position: absolute;
     margin-top: 5px;
     margin-left: 5px;
 }
 
-#details{
+.details{
     float: right;
     margin-top: 30px;
     margin-right: 60px;
 }
 
-#erdekesseg{
+.erdekesseg{
     margin-bottom: 50px;
 }
 
