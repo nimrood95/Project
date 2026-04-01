@@ -91,3 +91,14 @@ a{
     border-radius: 10px;
 }
 
+.ismertetobox{
+    box-shadow: 7px 7px 20px black;
+    width: 1415px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.boxkep{
+    width: 200px;
+
+}
