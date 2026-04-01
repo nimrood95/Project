@@ -5,7 +5,7 @@
 }
 .col-12{
     background-color: black;
-    height: 180px;
+    height: 200px;
     border-radius: 10px;
 }
 h1{
@@ -82,3 +82,12 @@ a{
     margin-top: 40px;
     height: 250px;
 }
+
+#logo-right{
+    float: right;
+    position: absolute;
+    right: 8px;
+    top: 21px;
+    border-radius: 10px;
+}
+
