@@ -107,3 +107,11 @@ a{
     font-size: 148%;
     margin-left: 20px;
 }
+
+.nurburgring{
+    font-size: 220%;
+    position: absolute;
+    margin-left: 400px;
+    margin-right: 250px;
+    margin-top: 15px;
+}
