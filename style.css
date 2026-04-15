@@ -115,3 +115,20 @@ a{
     margin-right: 250px;
     margin-top: 15px;
 }
+
+.nordschleife{
+    box-shadow: 7px 7px 20px black;
+    margin-top: 25px;
+    display: flex;
+    height: 250px;
+}
+
+#fo-text{
+    font-size: x-large;
+    margin-left: 250px;
+}
+#text12{
+    margin-top: 75px;
+    position: absolute;
+    left: 350px;
+}
