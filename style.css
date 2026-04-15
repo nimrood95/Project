@@ -131,4 +131,14 @@ a{
     margin-top: 75px;
     position: absolute;
     left: 350px;
+    right: 5px;
+}
+
+#nordschleife{
+    margin-right: 90px;
+}
+
+#top9{
+    text-align: center;
+    margin-top: 50px;
 }
