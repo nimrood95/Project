@@ -96,9 +96,14 @@ a{
     width: 1415px;
     margin-top: 20px;
     border-radius: 10px;
+    display: flex;
 }
 
 .boxkep{
     width: 200px;
+}
 
+.text123{
+    font-size: 148%;
+    margin-left: 20px;
 }
