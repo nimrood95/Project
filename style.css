@@ -3,23 +3,27 @@
     height: 100px;
     border-radius: 10px;
 }
+
 .col-12{
     background-color: black;
     height: 200px;
     border-radius: 10px;
 }
+
 h1{
     color: white;
     font-family: 'Arial', sans-serif;
     text-align: center;
     padding-top: 20px;
 }
+
 a{
     color: white;
     text-decoration: none;
     font-family: 'Arial', sans-serif;
     font-size: 18px;
 }
+
 .kezdlap{
     font-size: 220%;
     margin-left: 90px;
@@ -27,6 +31,7 @@ a{
     position: absolute;
     margin-top: 15px;
 }
+
 .autok{
     font-size: 220%;
     position: absolute;
@@ -127,6 +132,7 @@ a{
     font-size: x-large;
     margin-left: 250px;
 }
+
 #text12{
     margin-top: 75px;
     position: absolute;
