@@ -41,10 +41,8 @@ a{
 }
 
 .box-left{
-    float: left;
     box-shadow: 7px 7px 20px black;
     width: 410px;
-    margin-top: 40px;
     height: 250px;
 }
 
@@ -81,11 +79,8 @@ a{
 }
 
 .box-right{
-    float: left;
-    margin-left: 70px;
     box-shadow: 7px 7px 20px black;
     width: 410px;
-    margin-top: 40px;
     height: 250px;
 }
 
@@ -183,4 +178,29 @@ a{
     margin-top: 5px;
     margin-left: 5px;
     text-align: center;
+}
+
+.footer{
+    border-top: 1px solid black;
+    margin-top: 100px;
+}
+
+.footertext{
+    font-size: 120%;
+    font-weight: bold;
+    text-align: center;
+}
+
+#linck{
+    color: black;
+    text-decoration: none;
+    font-size: 100%;
+}
+
+#carcontainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 30px;
 }
